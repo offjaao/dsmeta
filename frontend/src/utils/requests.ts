@@ -1,0 +1,1 @@
+export const BASE_URL: string = import.meta.env.VITER_BACKEND_URL ?? "http://localhost:8080";
